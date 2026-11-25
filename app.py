@@ -221,5 +221,5 @@ st.divider()
 # ==========================
 
 st.caption(
-    "Developed by **Amandeep Singh** • B.Tech CSE • NLP & Machine Learning Project"
+    "Customer Support Ticket Classifier • NLP & Machine Learning Project"
 )

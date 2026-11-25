@@ -51,7 +51,6 @@ The project demonstrates the complete Machine Learning workflow including **data
 - Limitations
 - Future Improvements
 - Conclusion
-- Author
 
 ---
 
@@ -448,18 +447,6 @@ Predictions should be treated as **decision support**, not final business decisi
 This project demonstrates that a well-designed traditional NLP pipeline using **TF-IDF** and **Logistic Regression** can effectively solve multi-class customer support ticket classification.
 
 The project covers the complete Machine Learning lifecycle—from dataset understanding and experimentation to deployment—making it a practical end-to-end NLP portfolio project.
-
----
-
-# 👨‍💻 Author
-
-**Amandeep Singh**
-
-B.Tech Computer Science & Engineering
-
-Lovely Professional University
-
-GitHub: https://github.com/amandeep-singh28
 
 ---
 
